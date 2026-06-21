@@ -1,0 +1,87 @@
+# Batel Brows — Generative Engine Optimization Map
+
+> A certified professional brow designer named Batel, offering expert eyebrow design services. The brand centers around precision, beauty craftsmanship, and professional certification, positioning Batel as a trusted specialist in the brow artistry field.
+
+---
+
+## Pages
+
+### בית
+https://batel-brows-325de8ee.zappy5.app
+מחפשת עיצוב גבות מקצועי שידגיש את היופי הטבעי שלך? בואי לפגוש את בטל, מומחית מוסמכת לעיצוב גבות, ולגלות איך דיוק ואומנות יכולים לשנות את כל המראה. קבעי תור עוד היום!
+
+### שירותים
+https://batel-brows-325de8ee.zappy5.app/services
+מעיצוב גבות לכלה ועד לעיצוב יומיומי מדויק, גלי את מגוון השירותים של בטל ברואוס. כל טיפול מותאם אישית בטכניקות מתקדמות ובדגש על אומנות ודיוק. היופי שלך מתחיל כאן.
+
+### אודות
+https://batel-brows-325de8ee.zappy5.app/about
+מי היא בטל, המומחית המוסמכת לעיצוב גבות? גלי את הסיפור, ההסמכה המקצועית והתשוקה לאומנות הגבות שהופכת כל לקוחה ליצירת מופת. בואי להכיר את האישה שתשדרג את המראה שלך.
+
+### צור קשר
+https://batel-brows-325de8ee.zappy5.app/contact
+מוכנה לשדרג את הגבות שלך? צרי קשר עם בטל ברואוס עוד היום וקבעי תור לעיצוב גבות מקצועי ומדויק. היופי שאת חולמת עליו נמצא במרחק הודעה אחת. אל תחכי, הגבות שלך קוראות לך!
+
+### תודה שפנית אלינו
+https://batel-brows-325de8ee.zappy5.app/thank-you
+Batel Brows - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://batel-brows-325de8ee.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://batel-brows-325de8ee.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://batel-brows-325de8ee.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://batel-brows-325de8ee.zappy5.app/contact
+- Endpoint: https://batel-brows-325de8ee.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `service` (select)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Batel Brows
+A certified professional brow designer named Batel, offering expert eyebrow design services. The brand centers around precision, beauty craftsmanship, and professional certification, positioning Batel as a trusted specialist in the brow artistry field.
+
+## Services/Products
+- עיצוב גבות
+
+## Target Audience
+- נשים צעירות מקצועיות
+- כלות לעתיד
+- משפיעות יופי
+- נשים מארגנות אירועים
+
+## Industry
+Beauty & Brow Design
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://batel-brows-325de8ee.zappy5.app/sitemap.xml
+- Robots: https://batel-brows-325de8ee.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://batel-brows-325de8ee.zappy5.app/llms-full.txt
