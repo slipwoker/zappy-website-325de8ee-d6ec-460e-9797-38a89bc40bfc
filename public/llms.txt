@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://batel-brows-325de8ee.zappy5.app
+https://example.com
 מחפשת עיצוב גבות מקצועי שידגיש את היופי הטבעי שלך? בואי לפגוש את בטל, מומחית מוסמכת לעיצוב גבות, ולגלות איך דיוק ואומנות יכולים לשנות את כל המראה. קבעי תור עוד היום!
 
 ### שירותים
-https://batel-brows-325de8ee.zappy5.app/services
+https://example.com/services
 מעיצוב גבות לכלה ועד לעיצוב יומיומי מדויק, גלי את מגוון השירותים של בטל ברואוס. כל טיפול מותאם אישית בטכניקות מתקדמות ובדגש על אומנות ודיוק. היופי שלך מתחיל כאן.
 
 ### אודות
-https://batel-brows-325de8ee.zappy5.app/about
+https://example.com/about
 מי היא בטל, המומחית המוסמכת לעיצוב גבות? גלי את הסיפור, ההסמכה המקצועית והתשוקה לאומנות הגבות שהופכת כל לקוחה ליצירת מופת. בואי להכיר את האישה שתשדרג את המראה שלך.
 
 ### צור קשר
-https://batel-brows-325de8ee.zappy5.app/contact
+https://example.com/contact
 מוכנה לשדרג את הגבות שלך? צרי קשר עם בטל ברואוס עוד היום וקבעי תור לעיצוב גבות מקצועי ומדויק. היופי שאת חולמת עליו נמצא במרחק הודעה אחת. אל תחכי, הגבות שלך קוראות לך!
 
 ### תודה שפנית אלינו
-https://batel-brows-325de8ee.zappy5.app/thank-you
+https://example.com/thank-you
 Batel Brows - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://batel-brows-325de8ee.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://batel-brows-325de8ee.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://batel-brows-325de8ee.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://batel-brows-325de8ee.zappy5.app/contact
-- Endpoint: https://batel-brows-325de8ee.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -82,6 +82,6 @@ Beauty & Brow Design
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://batel-brows-325de8ee.zappy5.app/sitemap.xml
-- Robots: https://batel-brows-325de8ee.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://batel-brows-325de8ee.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
